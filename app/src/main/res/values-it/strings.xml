@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Portafoglio Titoli</string>
+    <string name="Loading">Caricamento in corso, attendere prego...</string>
+    <string name="next">Successivo</string>
+    <string name="title_activity_main">Lista titoli</string>
+    <string name="ExitMessage">Vuoi uscire?</string>
+    <string name="Confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="ok">Ok</string>
+</resources>

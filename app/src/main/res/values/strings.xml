@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PortafoglioTitoli</string>
+    <string name="Loading">Loading, please wait...</string>
+    <string name="title_activity_main">Stock list</string>
+    <string name="next">Next</string>
+    <string name="ExitMessage">Do you want to exit?</string>
+    <string name="Confirm">Confirm</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
